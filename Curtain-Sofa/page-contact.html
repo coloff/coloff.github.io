@@ -315,8 +315,8 @@ document.addEventListener("keydown", e => {
               <div id="respond" class="comment-respond">
                 <form
                   action=""
-                  method="post"
-                  id="submit-form"
+                  method=""
+                  id="commentform"
                   novalidate="novalidate"
                   class="commentform"
                   accept-charset="utf-8"
@@ -403,11 +403,11 @@ document.addEventListener("keydown", e => {
 
 
                 <script>
-          $("#submit-form").submit((e)=>{
+          $("#commentform").submit((e)=>{
           e.preventDefault()
           $.ajax({
           url:"https://script.google.com/macros/s/AKfycbyhB-qGA6YQy2fGO7MKD_5DPDw2Qsh_LroSnxeJauodi6BiFjtdfXCowSFVL8s0NcQU/exec",
-          data:$("#submit-form").serialize(),
+          data:$("#commentform").serialize(),
           method:"post",
           success:function (response){
           alert("Our sales team will contact you shortly to assist you further.")
