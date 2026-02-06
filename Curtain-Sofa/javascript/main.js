@@ -277,7 +277,7 @@
       var retina = window.devicePixelRatio > 1 ? true : false;
 
         if(retina) {
-            $('.logo').find('img').attr( {src:'./logo/LogoDark@2x.png',width:'159',height:'70'} );   
+            $('.logo').find('img').attr( {src:'./Coloff_Curtains_LLC.png',width:'159',height:'70'} );   
         }
     };  
 
@@ -285,7 +285,7 @@
         var retina = window.devicePixelRatio > 1 ? true : false;
   
           if(retina) {
-              $('#footer').find('img').attr( {src:'./logo/Logolight@2x.png'} );   
+              $('#footer').find('img').attr( {src:'./Coloff_Curtains_LLC.png'} );   
           }
     };   
 
