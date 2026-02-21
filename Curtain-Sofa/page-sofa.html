@@ -29,6 +29,54 @@
     <link href="coloff/logo-fav.png" rel="shortcut icon" />
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
 
+    <script>
+// Disable right-click
+document.addEventListener("contextmenu", e => e.preventDefault());
+
+// Disable text selection
+document.addEventListener("selectstart", e => e.preventDefault());
+
+// Disable copy, cut, paste
+document.addEventListener("copy", e => e.preventDefault());
+document.addEventListener("cut", e => e.preventDefault());
+document.addEventListener("paste", e => e.preventDefault());
+
+// Disable drag & drop (especially for images)
+document.addEventListener("dragstart", e => e.preventDefault());
+
+// Disable specific key combinations
+document.addEventListener("keydown", e => {
+    // F12
+    if (e.key === "F12") {
+        e.preventDefault();
+    }
+    // Ctrl+Shift+I / Ctrl+Shift+J (DevTools)
+    if (e.ctrlKey && e.shiftKey && (e.key === "I" || e.key === "J")) {
+        e.preventDefault();
+    }
+    // Ctrl+U (View Source)
+    if (e.ctrlKey && e.key.toLowerCase() === "u") {
+        e.preventDefault();
+    }
+    // Ctrl+S (Save Page)
+    if (e.ctrlKey && e.key.toLowerCase() === "s") {
+        e.preventDefault();
+    }
+    // Ctrl+C (Copy)
+    if (e.ctrlKey && e.key.toLowerCase() === "c") {
+        e.preventDefault();
+    }
+    // Ctrl+X (Cut)
+    if (e.ctrlKey && e.key.toLowerCase() === "x") {
+        e.preventDefault();
+    }
+    // Ctrl+A (Select All)
+    if (e.ctrlKey && e.key.toLowerCase() === "a") {
+        e.preventDefault();
+    }
+});
+</script>
+
 </head>
 <body>
     <div class="animsition boxed blog">
@@ -87,10 +135,10 @@
                       
                       <li class="menu-item-has-children "><a>Blinds</a>
                         <ul class="sub-menu">
-                          <li class=""><a href="">Roller Blinds</a></li>
-                          <li class=""><a href="">Roman Blinds</a></li>
-                          <li class=""><a href="">Vertical Blinds</a></li>
-                          <li class=""><a href="">Motorised blinds</a></li>
+                          <li class=""><a href="page-blinds.html">Roller Blinds</a></li>
+                          <li class=""><a href="page-blinds.html">Roman Blinds</a></li>
+                          <li class=""><a href="page-blinds.html">Vertical Blinds</a></li>
+                          <li class=""><a href="page-blinds.html">Motorised blinds</a></li>
                         </ul></li>
                       </ul></li>
                     <li><a href='blog.html'>Blog</a></li>
