@@ -1,67 +1,160 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
-
-<url>
-  <loc>https://coloff.ae/</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/index.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/page-about.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/company-infomation.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/service.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/page-curatin.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/page-carpet.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/page-sofa.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/page-blinds.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/blog.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://coloff.ae/Curtain-Sofa/page-contact.html</loc>
-  <lastmod>2026-03-11T11:42:38+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+  <url>
+       <loc>https://coloff.ae/</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>1.0000</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/index.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/about.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/company-info.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/services.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/curtain-making.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/carpet-making.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/sofa-making.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/roller-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/roman-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/vertical-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/motorised-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/portfolio.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/blog.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/contact.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/index.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.6400</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/about.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/company-info.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/services.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/curtain-making.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/carpet-making.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/sofa-making.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/roller-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/roman-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/vertical-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/motorised-blinds.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/portfolio.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/blog.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
+  <url>
+       <loc>https://coloff.ae/Curtains/ar/contact.html</loc>
+       <lastmod>2026-09-26T18:55:08+00:00</lastmod>
+       <priority>0.5120</priority>
+  </url>
 </urlset>
